@@ -1,5 +1,6 @@
  # **25 Simple Ways To Develop A Growth Mindset** 
  ---
+ ![alt text](https://ideapod.com/wp-content/uploads/2019/04/Fixed-vs-Growth_-The-two-basic-mindsets-that-shape-our-lives-compressor.jpg)
 1. Acknowledge and embrace imperfections.
 Hiding from your weaknesses means you’ll never overcome them.
 
