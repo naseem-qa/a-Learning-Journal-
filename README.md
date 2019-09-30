@@ -79,3 +79,12 @@ Once you develop a growth mindset, own it. Acknowledge yourself as someone who p
 25 Simple Ways To Develop A Growth Mindset
 [For more info.](https://www.edglossary.com)
 
+FOR MORE INFORMATION
+
+| **file name** | **URL** | 
+|---:|----:|
+| gitnew | gitnew.md|
+|linux-Tutorial| linux-Tutorial.md|
+|new-topic| new-topic.md|
+
+
