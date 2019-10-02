@@ -1,6 +1,7 @@
 # What makes a computer a computer?
 ----
-it’s like a tool human being use to help in different life
+
+*t’s like a tool human being use to help in different life
 the basic concept of how it works is input processing and output
 till now it works as same as the old machine
 how info represent in computer
@@ -30,4 +31,4 @@ the software that what we don't see like apps and games
 these to is interacting through cpu
 cpu it has different circuits to do different operations.
 the magic of cpu is how it knows what circuit to use
-binary commands stored in memory and the cpu you start with them one by one in sequence.
+binary commands stored in memory and the cpu you start with them one by one in sequence.*
